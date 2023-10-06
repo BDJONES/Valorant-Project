@@ -1,6 +1,6 @@
 # Valorant-Project
 
-**Description**
+__Description__
 The Valorant Project is a command-line tool designed to provide Valorant players with valuable information about cosmetic items in the game, as well as the ability to compare their rank and skill level with other players to gauge their performance relative to the broader player base.
 
 **Features**
